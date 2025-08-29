@@ -1,2 +1,5 @@
-<h1 align="center"> How To Run These Scripts </h1>
-<p align="center"> In order to run the script you first do chmod +x texttomd5.sh (or whatever script you want to run). then run the script with ./texttomd5.sh words.txt output_hashes.txt  </p>
+<h1 align="center"> Hash Decoding </h1>
+<br>
+<p align="center"> Hash decoding is a collection of scripts that allow you to decode certain hash values, assuming no peppers or salts were added. Written in shell, These scripts can be used to convert text to hashes, which you can then compare. </p>
+<br>
+
